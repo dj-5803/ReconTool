@@ -1,8 +1,12 @@
-requests==2.28.1
-pyfiglet ==1.0.2
+# Core requirements
+pyfiglet==1.0.2
+python-barcode==1.0.1
 pyqrcode==1.2.1
-barcode==1.0.4
-phonenumbers==9.0.4
+phonenumbers==8.13.22
+requests==2.31.0
 tabulate==0.9.0
-setuptools==79.0.0
-wheel==0.45.1
+
+# Dev requirements
+pytest==8.0.0
+pytest-cov==4.1.0
+codecov==2.1.13

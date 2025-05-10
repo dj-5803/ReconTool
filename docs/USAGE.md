@@ -1,5 +1,11 @@
 # ReconTool Usage Guide
+[Back to Main README](../README.md)
 
+## 🔗 Quick Links
+- [Feature Overview](../README.md#-features-overview)
+- [Installation Guide](../README.md#installation)
+- [License](../LICENSE)
+ 
 ## Main Menu Navigation
 - Select options by entering the corresponding number
 - Follow on-screen prompts for each tool

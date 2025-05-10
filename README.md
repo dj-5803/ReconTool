@@ -26,7 +26,7 @@ A multi-purpose security tool for reconnaissance and testing purposes.
 - **Dual-format export** (PNG+SVG for QR codes)
 
 
-## Installation
+## Installation Guide
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ReconTool.git

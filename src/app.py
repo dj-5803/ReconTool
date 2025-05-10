@@ -546,4 +546,5 @@ class ReconTool:
       
 
 if __name__ == "__main__":
-    ReconTool()
+    tool = ReconTool()
+    tool.main_menu()

@@ -41,13 +41,13 @@ A multi-purpose security tool for reconnaissance and testing purposes.
     python src/app.py
 
 ## Usage
-See USAGE.md for detailed usage instructions.
+See [USAGE.md](/docs/USAGE.md) for detailed usage instructions.
 
 ## Disclaimer
 This tool is for educational and authorized testing purposes only. Use responsibly and legally.
 
 ## License
-MIT License - See LICENSE for details.
+MIT License - See [LICENSE](LICENSE) for details.
 
 ## Contributing
 Pull requests welcome! For major changes, open an issue first.

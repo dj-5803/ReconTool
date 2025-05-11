@@ -2,7 +2,8 @@ import unittest
 import os
 import sys
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import patch, Mock, MagicMock
+import pytest
 
 SRC_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src'))
 sys.path.insert(0, SRC_DIR)
